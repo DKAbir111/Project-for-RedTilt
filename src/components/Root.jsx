@@ -3,7 +3,7 @@ import Navbar from "./Navbar";
 
 export default function Root() {
     return (
-        <div className="bg-black text-white">
+        <div >
             <Navbar />
             <Hero />
         </div>
